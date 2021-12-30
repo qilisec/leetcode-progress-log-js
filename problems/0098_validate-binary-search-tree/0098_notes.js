@@ -1,0 +1,3 @@
+/*
+Challenging. My first Leetcode question. I made repeated careless mistakes with the setting up of my conditionals and also had lapses in knowledge such as my exponent operator. The test cases showed me  how flimsy my solutions were.
+*/
